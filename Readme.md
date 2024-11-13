@@ -1,5 +1,6 @@
 ## Exercise_9-Keyboard_Automation-Simulate_Keystrokes
-
+### NAME:SANJAY ASHWIN P
+### REG NO:212223040181
 ## Aim:
 
 To simulate typing and keyboard shortcuts in a desktop application (Notepad) using Start Process, Type Into, and Send Hotkey activities in UiPath Studio.
